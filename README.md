@@ -3,4 +3,4 @@
 This is a bashscript tool to scrape social media links from websites. It only extracts linkedin,twitter and youtube links, but can be edited to extract other links as well. It only has 2 requirements:
 
 Lynx (commandline web browser)
-And a terminal
+and a terminal
